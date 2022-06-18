@@ -21,6 +21,7 @@
 }
 
 body{
+    width: fit-content;
     background: var(--bg-color);
     color: var(--text-color);
 }
